@@ -32,7 +32,7 @@ npm install
 
 ```sh
 npx shadcn-svelte@latest init
-npx shadcn-svelte@latest add -y -o
+npx shadcn-svelte@latest add -y -o # Select All Components `A`
 ```
 
 [Shadcn Themes](https://www.shadcn-svelte.com/themes)
